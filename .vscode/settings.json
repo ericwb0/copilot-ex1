@@ -3,6 +3,7 @@
         "/^node --check src/static/app\\.js$/": {
             "approve": true,
             "matchCommandLine": true
-        }
+        },
+        "pytest": true
     }
 }
